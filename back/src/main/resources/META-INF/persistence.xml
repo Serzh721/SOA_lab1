@@ -8,7 +8,7 @@
             <property name="javax.persistence.jdbc.url" value="jdbc:postgresql://pg:5432/studs"/>
             <property name="javax.persistence.jdbc.driver" value="org.postgresql.Driver"/>
             <property name="javax.persistence.jdbc.user" value="s265100"/>
-            <property name="javax.persistence.jdbc.password" value="vfs848"/>
+            <property name="javax.persistence.jdbc.password" value="***"/>
             <property name="hibernate.archive.autodetection" value="class"/>
             <property name="hibernate.show_sql" value="true"/>
             <property name="hibernate.format_sql" value="true"/>
